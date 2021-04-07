@@ -4,5 +4,5 @@ The aim of this project is to experiment with BERT (Bidirectional Encoder Repres
 
 This project combines all of the steps in solving a problem, from the pre-processing of dataset to model building, evaluation, and deployment. 
 
-The file might be too big to open in browser
+The file might be too big to open in browser. Clone and open jupyter notebook
 
